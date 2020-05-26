@@ -46,7 +46,7 @@
 	
 	<key>PayloadIdentifier</key>
 	<!-- CREATE AN IDENTIFIER FOR YOUR PROFILE AND REPLACE GENERATED_UUID_02 -->
-	<string>Apple.Adblock.43f3dbd6-9f58-11ea-bb37-0242ac130002</string>
+	<string>.Adblock.43f3dbd6-9f58-11ea-bb37-0242ac130002</string>
 	
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
