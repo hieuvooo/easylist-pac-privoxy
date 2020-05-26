@@ -42,7 +42,7 @@
 
 	<key>PayloadDisplayName</key>
 	<!-- ADD A NAME FOR YOUR PROFILE -->
-	<string>Apple_Adblock</string>
+	<string>Apple dblock</string>
 	
 	<key>PayloadIdentifier</key>
 	<!-- CREATE AN IDENTIFIER FOR YOUR PROFILE AND REPLACE GENERATED_UUID_02 -->
