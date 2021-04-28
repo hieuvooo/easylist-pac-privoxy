@@ -234,6 +234,11 @@ var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non
 
 // 2050 rules:
 var bad_da_host_JSON = { "jobthread.com": null,
+"auiopt.unityads.unity3d.com": null,
+"auction.unityads.unity3d.com": null, 
+"publisher-config.unityads.unity3d.com": null,
+"config.unityads.unity3d.com": null,  
+"tracking.prd.mz.internal.unity3d.com": null,                        
 "content.ad": null,
 "webvisor.ru": null,
 "nastydollars.com": null,
